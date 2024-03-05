@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textViewSeekBarValue;
     private TextView textViewQuote;
     private Button button;
-    private String[] quotes = {"Dzień dobry", "Good morning", "Buenos dias", "Guten Morgen"};
+    private String[] quotes = {"Dzień dobry", "Good morning", "Buenos dias"};
     private int currentIndex = 0;
 
     @Override
